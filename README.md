@@ -1,6 +1,5 @@
 # CloudFlare-ImgBed
 
-
 免费图片/文件托管解决方案，基于 Cloudflare Pages 和 Telegram，支持 Telegram Bot 存储渠道和 Cloudflare R2 存储渠道。
 
 **前端仓库**：[MarSeventh/Sanyue-ImgHub](https://github.com/MarSeventh/Sanyue-ImgHub)
